@@ -1,0 +1,20 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.ipynb_checkpoints/
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# Databases
+*.db-journal
+
+# OS generated files
+.DS_Store
+Thumbs.db
